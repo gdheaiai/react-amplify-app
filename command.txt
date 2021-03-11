@@ -1,0 +1,66 @@
+    1  pwd
+    2  ls
+    3  npx
+    4  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+    5  . ~/.nvm/nvm.sh
+    6  nvm install node
+    7  node -e "console.log('Running Node.js ' + process.version)"
+    8  npx
+    9  node -e "console.log('Running Node.js ' + process.version)"
+   10  npx create-react-app react-amplify-app
+   11  cd react-amplify-app/
+   12  ls
+   13  git init
+   14  git remote add origin https://github.com/gdheaiai/react-amplify-app.git
+   15  sudo yum install git -y
+   16  git init
+   17  git remote add origin https://github.com/gdheaiai/react-amplify-app.git
+   18  git push origin master
+   19  git push origin https://github.com/gdheaiai/react-amplify-app.git
+   20  git push origin master
+   21  ls
+   22  cd .git/
+   23  ls
+   24  vi config 
+   25  git remote add origin https://github.com/gdheaiai/react-amplify-app.git
+   26  git remote push origin
+   27  git remote push master
+   28  git push origin master
+   29  cd ../
+   30  git push origin master
+   31  ls
+   32  cd ../
+   33  cd react-amplify-app/
+   34  cd .git/
+   35  ls
+   36  vi config 
+   37  cd ../
+   38  git branch -M main
+   39  git push -u origin main
+   40  git branch
+   41  ls
+   42  cleat
+   43  git init
+   44  git remote add origin https://github.com/gdheaiai/react-amplify-app.git
+   45  git push origin master
+   46  ping https://github.com/gdheaiai/react-amplify-app.git
+   47  git remote add origin git@github.com/gdheaiai/react-amplify-app.git
+   48  git remote add origin git@github.com:gdheaiai/react-amplify-app.git
+   49  git push origin master
+   50  cd .git
+   51  vi config 
+   52  git push -u origin main
+   53  git commit -m "initial commit"
+   54  git push -u origin main
+   55  git add .
+   56  cd ../
+   57  git commit -m "initial commit"
+   58  :q
+   59  git push origin master
+   60  clear
+   61  git add .
+   62  git push -u origin master
+   63  git commit -m "initial commit"
+   64  git push origin master
+   65  history
+   66  history > command.txt
